@@ -58,4 +58,4 @@ Server Provision & Deployment
 ### Installation
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/Animace/mern-auth-app.git
+  https://github.com/Animace/MERN-Authentication.git
