@@ -1,6 +1,7 @@
-# MongoDB Express React & Node Stack application provides a robust authentication system along with a user-friendly interface. It includes a secure backend API and a responsive frontend with a modern UI. Below are the key features of this application:
+# MongoDB Express React & Node Stack application provides a robust authentication system along with a user-friendly interface.
 
 
+It includes a secure backend API and a responsive frontend with a modern UI. Below are the key features of this application:
 Node.js, Express & MongoDB API
 Full Authentication
 JWT & HTTP-Only Cookie
@@ -57,4 +58,4 @@ Server Provision & Deployment
 ### Installation
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/Animace/mern-auth-app.git
+  https://github.com/Animace/MERN-Authentication.git
