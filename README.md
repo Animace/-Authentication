@@ -59,5 +59,5 @@ Server Provision & Deployment
 1. **Clone the repository**: 
 
   
-https://github.com/Animace/MERN-Authentication.git ```sh
+https://github.com/Animace/MERN-Authentication.git
 
