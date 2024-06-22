@@ -1,5 +1,5 @@
-# MongoDB Express React & Node Stack application provides a robust authentication system along with a user-friendly interface.
-
+# MongoDB Express React
+& Node Stack application provides a robust authentication system along with a user-friendly interface.
 
 It includes a secure backend API and a responsive frontend with a modern UI. Below are the key features of this application:
 Node.js, Express & MongoDB API
